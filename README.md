@@ -11,8 +11,9 @@ Focado no uso de áudios em alta nos Reels e Stories, o Instagram dita o "clima"
 # Spotify:
 Embora seja um serviço de streaming, assumiu uma função de rede social. Compartilhar o que está ouvindo nos Stories, criar playlists colaborativas e os algoritmos de descoberta (como o "Descobertas da Semana") conectam amigos e mantêm os jovens atualizados sobre novos lançamentos.
 
-Os dados da pesquisa realizada com 40 participantes reforçam essa influência. Quando questionados sobre qual plataforma mais influencia suas descobertas musicais, 62,5% apontaram o TikTok, seguido pelo Spotify (22,5%), enquanto Instagram, YouTube e outras plataformas somaram percentuais menores. Além disso, 92,5% dos entrevistados afirmaram já ter começado a ouvir uma música porque ela viralizou nas redes sociais, demonstrando o forte impacto das tendências digitais no consumo musical. A pesquisa também revelou que 72,5% seguem artistas nas redes sociais, evidenciando a proximidade entre público e artistas e o papel dessas plataformas na divulgação de músicas e na construção da imagem dos músicos. Esses resultados mostram que as redes sociais são atualmente um dos principais meios de descoberta, promoção e consumo de música entre os jovens.
-Referências:
+# Os dados da pesquisa realizada com 40 participantes reforçam essa influência. Quando questionados sobre qual plataforma mais influencia suas descobertas musicais, 62,5% apontaram o TikTok, seguido pelo Spotify (22,5%), enquanto Instagram, YouTube e outras plataformas somaram percentuais menores. Além disso, 92,5% dos entrevistados afirmaram já ter começado a ouvir uma música porque ela viralizou nas redes sociais, demonstrando o forte impacto das tendências digitais no consumo musical. A pesquisa também revelou que 72,5% seguem artistas nas redes sociais, evidenciando a proximidade entre público e artistas e o papel dessas plataformas na divulgação de músicas e na construção da imagem dos músicos. Esses resultados mostram que as redes sociais são atualmente um dos principais meios de descoberta, promoção e consumo de música entre os jovens.
+
+* Referências:
 
 https://static.casperlibero.edu.br/uploads/2023/12/Julia-Tuma_artigo.pdf
 
