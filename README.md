@@ -73,7 +73,8 @@ Portanto, é importante buscar um equilíbrio entre o consumo de músicas nacion
 
 ## Referências
 
-FOLHA DE BOA VISTA. *A sociedade brasileira e o complexo de vira-lata*. Disponível em: <https://www.folhabv.com.br/opiniao/a-sociedade-brasileira-e-o-complexo-de-vira-lata/>. Acesso em: 11 jun. 2026.
+FOLHA DE BOA VISTA. A sociedade brasileira e o complexo de vira-lata. Disponível em: https://www.folhabv.com.br/opiniao/a-sociedade-brasileira-e-o-complexo-de-vira-lata/⁠￼. Acesso em: 11 jun. 2026.
 
-AGÊNCIA DE JORNALISMO MULTIMÍDIA DA PUC-SP. *Lollapalooza evidencia desvalorização da cultura brasileira*. Disponível em: <https://agemt.pucsp.br/noticias/lollapalooza-evidencia-desvalorizacao-da-cultura-brasileira>. Acesso em: 11 jun. 2026.
+AGÊNCIA DE JORNALISMO MULTIMÍDIA DA PUC-SP. Lollapalooza evidencia desvalorização da cultura brasileira. Disponível em: https://agemt.pucsp.br/noticias/lollapalooza-evidencia-desvalorizacao-da-cultura-brasileira⁠￼. Acesso em: 11 jun. 2026.
 
+GOOGLE FORMS. Questionário: A influência da música na vida dos jovens de Camaçari. Disponível em: https://docs.google.com/forms/d/1H1YBNFDEXzeU5uWohKKUtHL8IQHlM-Pg_Yu65e2bGxg/edit#responses⁠￼. Acesso em: 11 jun. 2026.
